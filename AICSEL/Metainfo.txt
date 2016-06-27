@@ -2,7 +2,7 @@ Name of Quantlet: Arima_selection_aic
 
 Published in: Unpublished
 
-Description:Select the most appropriate ARIMA model for fitting data minimising the Akaike Information Criterion (AIC)
+Description: Select the most appropriate ARIMA model for fitting data minimising the Akaike Information Criterion (AIC)
 
 Keywords: arima, aic, area, ac, ma, model selection
 
