@@ -1,21 +1,21 @@
 
-Name of Quantlet: AICsel
+Name of Quantlet: AICSEL
 
 Published in: Unpublished
 
-Description: Select the most appropriate ARIMA model for fitting data minimising the Akaike Information Criterion (AIC).
+Description: Select the most appropriate ARIMA model for fitting data minimising the Akaike Information Criterion .
 
-Keywords: arima, aic, area, ac, ma, model selection
+Keywords: arima, aic, arma, ac, ma, model selection
 
 Inputs: 
 -p : order of the autoregressive part to be tested
 -q : order of the moving- average part to be tested
--d : degree of differencing'
+-d : degree of differencing
 
-Output: Matrix containing the AIC of the models we want to test and the respective model with the smallest AIC
+Output: Matrix containing the AIC of the models we want to test and the respective model with the smallest AIC.
 
-Example: Find the most appropriate ARIMA model for stock returns
+Example: Find the most appropriate ARIMA model for stock returns.
 
 Author: Alexander Dautel, Thorsten Disser, Binhui Hu, Nicolas Yiannakou
 
-Submitted: Thu, Jun 23 2016 by Nicolas Yiannakou
+Submitted: Thu, Jun 23 2016 by Nicolas Yiannakou (to be changed)
