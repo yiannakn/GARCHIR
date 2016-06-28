@@ -1,5 +1,5 @@
 
-Name of Quantlet: AICsel
+Name of Quantlet: AICSEL
 
 Published in: Unpublished
 
