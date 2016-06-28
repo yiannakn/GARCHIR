@@ -10,11 +10,11 @@ Keywords: arima, aic, arma, ac, ma, model selection
 Inputs: 
 -p : order of the autoregressive part to be tested
 -q : order of the moving- average part to be tested
--d : degree of differencing'
+-d : degree of differencing
 
 Output: Matrix containing the AIC of the models we want to test and the respective model with the smallest AIC.
 
-Example: Find the most appropriate ARIMA model for stock returns
+Example: Find the most appropriate ARIMA model for stock returns.
 
 Author: Alexander Dautel, Thorsten Disser, Binhui Hu, Nicolas Yiannakou
 
