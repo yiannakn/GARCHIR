@@ -18,4 +18,4 @@ Example: Find the most appropriate ARIMA model for stock returns.
 
 Author: Alexander Dautel, Thorsten Disser, Binhui Hu, Nicolas Yiannakou
 
-Submitted: Thu, Jun 23 2016 by Nicolas Yiannakou (to be changed)
+Submitted: Tue, Jun 28 2016 by Nicolas Yiannakou
