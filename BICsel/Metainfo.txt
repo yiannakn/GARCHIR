@@ -5,7 +5,7 @@ Published in: Unpublished
 
 Description: Select the most appropriate ARCH/GARCH model fitting data by minimising the Bayesian Information Criterion (BIC).
 
-Keywords: arima, bic, area, ac, ma, model selection
+Keywords: arima, bic, area, ac, ma, model selection, bayesian information criterion
 
 Inputs:
 -BIC 	: Calculates and returns the Bayesian Criterion
