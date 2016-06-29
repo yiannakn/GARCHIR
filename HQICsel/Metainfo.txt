@@ -3,9 +3,9 @@ Name of Quantlet: HQICsel
 
 Published in: Unpublished
 
-Description: Select the most appropriate ARCH/GARCH model fitting data by minimising the Hannan-Quinn Criterion (HQIC).
+Description: Select the most appropriate ARCH/GARCH model fitting data by minimising the Hannan-Quinn Information Criterion (HQIC).
 
-Keywords: arch, garch, hqc, area, ac, ma, model selection, Hannan-Quinn Criterion
+Keywords: arch, garch, hqc, area, ac, ma, model selection, hannan quinn information criterion
 
 Inputs:
 -HQIC	: Calculates and returns the Hannan-Quinn Information Criterion
