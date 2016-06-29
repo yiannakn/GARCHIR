@@ -5,7 +5,7 @@ Published in: Unpublished
 
 Description: Select the most appropriate ARIMA model for fitting data minimising the Akaike Information Criterion .
 
-Keywords: arima, aic, arma, ac, ma, model selection
+Keywords: arima, aic, arma, ac, ma, model selection, akaike information criterion
 
 Inputs: 
 -p : order of the autoregressive part to be tested
