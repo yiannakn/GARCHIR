@@ -14,6 +14,8 @@
 # Example:      Detecting breakpoints in DAX returns and 
 #               comparing them with points of interest rate changes
 # ---------------------------------------------------------------------
+# Data:		 int_rate.csv, Dax Data Comma.csv
+# ---------------------------------------------------------------------
 # Authors:      Alexander Dautel, Thorsten Disser, Binhui Hu,
 #               Nicolas Yiannakou
 # ---------------------------------------------------------------------
